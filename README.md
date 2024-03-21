@@ -1,1 +1,1 @@
-CPSC-254-GitDemo
+Hello GitDemo README.md
